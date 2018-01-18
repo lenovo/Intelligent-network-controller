@@ -4,15 +4,14 @@ Lenovo’s SDN Controller is available to address the challenges faced by both I
 
 __ThinkAgile Network Controller Features:__
 
-* [OpenContrail](http://www.opencontrail.org/) based (continuous community Sync)
+* [OpenContrail](http://www.opencontrail.org/) 3.2 based (continuous community Sync)
 * Red Hat OpenStack 10 (RHOSP10) – OpenStack Newton
 * Red Hat Enterprise Linux 7.4 (RHEL 7.4)
-* Lenovo ThinkCloud 4.1 Solution 
+* Lenovo ThinkCloud 4.2 Solution 
 * Multi-tenancy
 * VXLAN/MPLS encapsulations and Data path Virtualization
 * Multicast Services
 * Service Function Chaining (SFC) with LBaaS/FWaaS/VPNaaS supporting commercial VNFs (Virtualized Network Functions)
-* DPDK 17.11 for Telco NFVI (Network Function Virtualization Infrastructure)
 * High Availability
 * Enhanced Lenovo GUI
 * Rich Analytics

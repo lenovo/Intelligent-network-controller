@@ -11,6 +11,7 @@ __ThinkAgile Network Controller Features:__
 * Red Hat Enterprise Linux 7.4 (RHEL 7.4)
 * __Lenovo ThinkCloud 4.2 Solution__ 
 * Multi-tenancy
+* __Lenovo Security Hardening__
 * VXLAN/MPLS encapsulations and Data path Virtualization
 * Multicast Services
 * Service Function Chaining (SFC) with LBaaS/FWaaS/VPNaaS supporting commercial VNFs (Virtualized Network Functions)

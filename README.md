@@ -1,9 +1,10 @@
-# Welcome to Lenovo's Thinkagile Network Controller
+# Welcome to Lenovo's Thinkagile Network Controller (TNC)
 
-Lenovo’s SDN Controller is available to address the challenges faced by both IT departments and telco providers in building an intelligent network that can adopt to new business requirements. TNC is a Software Defined Network (SDN) controller built on OpenContrail which demonstrates Lenovo’s commitment to open solutions while providing quality customer experiences. 
-ThinkAgile Network Controller Features
-Key features:
-* [OpenContrail]http://www.opencontrail.org/) based (continuous community Sync)
+Lenovo’s SDN Controller is available to address the challenges faced by both IT departments and telco providers in building an intelligent network that can adopt to new business requirements. TNC is a Software Defined Network (SDN) controller built on [OpenContrail](http://www.opencontrail.org/) which demonstrates Lenovo’s commitment to open solutions while providing quality customer experiences. 
+
+__ThinkAgile Network Controller Features:__
+
+* [OpenContrail](http://www.opencontrail.org/) based (continuous community Sync)
 * Red Hat OpenStack 10 (RHOSP10) – OpenStack Newton
 * Red Hat Enterprise Linux 7.4 (RHEL 7.4)
 * Lenovo ThinkCloud 4.1 Solution 

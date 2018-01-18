@@ -7,15 +7,15 @@ __ThinkAgile Network Controller Features:__
 * [OpenContrail](http://www.opencontrail.org/) 3.2 based (continuous community Sync)
 * Red Hat OpenStack 10 (RHOSP10) – OpenStack Newton
 * Red Hat Enterprise Linux 7.4 (RHEL 7.4)
-* Lenovo ThinkCloud 4.2 Solution 
+* __Lenovo ThinkCloud 4.2 Solution__ 
 * Multi-tenancy
 * VXLAN/MPLS encapsulations and Data path Virtualization
 * Multicast Services
 * Service Function Chaining (SFC) with LBaaS/FWaaS/VPNaaS supporting commercial VNFs (Virtualized Network Functions)
 * High Availability
-* Enhanced Lenovo GUI
+* __Enhanced Lenovo GUI__
 * Rich Analytics
-* Simplified Chinese Language
+* __Simplified Chinese Language__
 
 And many other features
 
@@ -29,8 +29,8 @@ __Key IT Benefits__:
 
 * __Seamless Integration__: Lenovo TNC is built to integrate with existing environments seeking to migrate to Private Cloud models. It includes support for standard protocols and integration with orchestration systems such as Openstack. The Virtual router can integrate with routing protocols such as BGP and OSPF to enable undisrupted traffic paths.
 
-Lenovo is currently field trialing this solution and welcomes customer testing and feedback. For more details check out the SDN Controller Overview White Paper @
+Lenovo is currently field trialing the controller and welcomes customer testing and feedback. For more details check out the SDN Controller Overview White Paper @
 
-Get more details and sign up for trials send emails to sdnalias@lenovo.com
+To get more details and sign up for trials, send emails to sdnalias@lenovo.com
 
 

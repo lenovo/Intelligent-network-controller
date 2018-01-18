@@ -29,7 +29,7 @@ __Key IT Benefits__:
 
 * __Seamless Integration__: Lenovo TNC is built to integrate with existing environments seeking to migrate to Private Cloud models. It includes support for standard protocols and integration with orchestration systems such as Openstack. The Virtual router can integrate with routing protocols such as BGP and OSPF to enable undisrupted traffic paths.
 
-Lenovo is currently field trialing the controller and welcomes customer testing and feedback. For more details check out the SDN Controller Overview White Paper @
+Lenovo is currently field trialing the controller and welcomes customer testing and feedback. For more details check out the SDN Controller Overview White Paper @ and the Comprehensive [User Guide](https://github.com/lenovo/thinkagile-network-controller/blob/master/TNC_UG_1-0_Final.pdf).
 
 To get more details and sign up for trials, send emails to sdnalias@lenovo.com
 

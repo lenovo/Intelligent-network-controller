@@ -7,7 +7,7 @@ Lenovo’s Network Controller is available to address the challenges faced by bo
 </p>
 __ThinkAgile Network Controller Features:__
 
-* [OpenContrail](http://www.opencontrail.org/) 3.2 based (continuous community Sync)
+* [OpenContrail 3.2](http://www.opencontrail.org/) based (continuous community Sync)
 * Red Hat OpenStack 10 (RHOSP10) – OpenStack Newton
 * Red Hat Enterprise Linux 7.4 (RHEL 7.4)
 * __Lenovo ThinkCloud 4.2 Solution__ 

@@ -21,7 +21,7 @@ __ThinkAgile Network Controller Features:__
 * Rich Analytics
 * __Simplified Chinese Language__
 
-And many other features
+* Many other baseline features
 
 __Key IT Benefits__:
 

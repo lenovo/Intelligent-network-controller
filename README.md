@@ -1,6 +1,6 @@
 # Welcome to Lenovo's Thinkagile Network Controller (TNC)
 
-Lenovo’s SDN Controller is available to address the challenges faced by both IT departments and telco providers in building an intelligent network that can adopt to new business requirements. TNC is a Software Defined Network (SDN) controller built on [OpenContrail](http://www.opencontrail.org/) which demonstrates Lenovo’s commitment to open solutions while providing quality customer experiences. 
+Lenovo’s Network Controller is available to address the challenges faced by both IT departments and telco providers in building an intelligent network that can adopt to new business requirements. TNC is a Software Defined Network (SDN) controller built on [OpenContrail](http://www.opencontrail.org/) which demonstrates Lenovo’s commitment to open solutions while providing quality customer experiences. 
 
 __ThinkAgile Network Controller Features:__
 
@@ -25,7 +25,7 @@ __Key IT Benefits__:
 
 * __Open__: Lenovo TNC was developed based upon the OpenContrail open-source project and community of developers and users. It eliminates the risk of being lock-in by leveraging long-standing, well-proven open industry standards plus Lenovo’s quality commitment.
 
-* __High Scale and Performance__:  Several large Enterprises and Telco currently have Open Contrail in production, standing up to the challenge of some of the most massive data center clouds. One controller installation can support thousands of virtual machines or Containers.
+* __High Scale and Performance__:  Several large Enterprises and Telco currently have Open Contrail in production, standing up to the challenges of the most massive data center clouds. One controller installation can support thousands of virtual machines or Containers.
 
 * __Seamless Integration__: Lenovo TNC is built to integrate with existing environments seeking to migrate to Private Cloud models. It includes support for standard protocols and integration with orchestration systems such as Openstack. The Virtual router can integrate with routing protocols such as BGP and OSPF to enable undisrupted traffic paths.
 

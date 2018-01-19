@@ -5,6 +5,7 @@ Lenovo’s Network Controller is available to address the challenges faced by bo
 <p align="center"> 
 <img src="https://github.com/lenovo/thinkagile-network-controller/blob/master/tnc_system_architecture.PNG">
 </p>
+
 __ThinkAgile Network Controller Features:__
 
 * [OpenContrail 3.2](http://www.opencontrail.org/) based (continuous community Sync)

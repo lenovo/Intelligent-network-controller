@@ -35,7 +35,7 @@ __Key IT Benefits__:
 
 * __High Scale and Performance__:  Several large Enterprises and Telco currently have Open Contrail in production, standing up to the challenges of the most massive data center clouds. One controller installation can support thousands of virtual machines or Containers.
 
-* __Seamless Integration__: Lenovo TNC is built to integrate with existing environments seeking to migrate to Private Cloud models. It includes support for standard protocols and integration with orchestration systems such as Openstack. The Virtual router can integrate with routing protocols such as BGP and OSPF to enable undisrupted traffic paths.
+* __Seamless Integration__: Lenovo TNC integrates with existing environments seeking to migrate to Private Cloud architecture models. It includes support for standard protocols and integration with orchestration systems such as Openstack. The Virtual router can integrate with routing protocols such as BGP and OSPF to enable undisrupted traffic paths.
 
 Lenovo is currently field trialing the controller and welcomes customer testing and feedback. For more details, check out the [SDN Controller Overview White Paper](http://www.opencontrail.org/opencontrail-architecture-documentation/) or the comprehensive [User Guide](https://github.com/lenovo/thinkagile-network-controller/blob/master/TNC_UG_1-0_Final.pdf).
 

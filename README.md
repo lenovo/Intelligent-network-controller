@@ -11,7 +11,7 @@ __ThinkAgile Network Controller Features:__
 * [OpenContrail 3.2](http://www.opencontrail.org/) based (continuous community Sync)
 * Multi-tenancy
 * __Lenovo Security Hardening__
-* VXLAN/MPLS encapsulations and Data path Virtualization
+* VXLAN encapsulations and Data path Virtualization
 * Multicast Services
 * Service Function Chaining (SFC) with LBaaS/FWaaS/VPNaaS supporting commercial VNFs (Virtualized Network Functions)
 * High Availability

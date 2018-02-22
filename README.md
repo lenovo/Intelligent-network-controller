@@ -12,6 +12,7 @@ __The Intelligent Network Controller Features:__
 * Multi-tenancy
 * __Lenovo Security Hardening__
 * VXLAN encapsulations and Data path Virtualization
+* Distributed Virtual Router 
 * Multicast Services
 * Service Function Chaining (SFC) with LBaaS/FWaaS/VPNaaS supporting commercial VNFs (Virtualized Network Functions)
 * High Availability

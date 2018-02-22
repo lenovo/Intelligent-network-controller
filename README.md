@@ -1,4 +1,4 @@
-# Welcome to Lenovo's ThinkAgile Network Controller (TNC)
+# Welcome to Lenovo's Intelligent Network Controller (TNC)
 
 Lenovo’s Network Controller is available to address the challenges faced by both IT departments and telco providers in building an intelligent network that can adopt to new business requirements. TNC is a Software Defined Network (SDN) controller built on [OpenContrail](http://www.opencontrail.org/) which demonstrates Lenovo’s commitment to open solutions while providing __quality customer experiences__. 
 
@@ -29,9 +29,9 @@ __Virtualization Platforms:__
 
 __Key IT Benefits__:
 
-* __Simple__: Lenovo TNC is designed with simplicity in mind. It is easy to learn, intuitive to use, and well automated for a simple day-1 setup with orchestration systems such as Redhat Openstack and Lenovo ThinkCloud.
+* __Simple__: Lenovo Controller is designed with simplicity in mind. It is easy to learn, intuitive to use, and well automated for a simple day-1 setup with orchestration systems such as Redhat Openstack and Lenovo ThinkCloud.
 
-* __Open__: Lenovo TNC is developed off the OpenContrail open-source project and community of developers and users. It eliminates the risk of being lock-in by leveraging long-standing, well-proven open industry standards plus Lenovo’s quality commitment.
+* __Open__: Lenovo Controller is developed off the OpenContrail open-source project and community of developers and users. It eliminates the risk of being lock-in by leveraging long-standing, well-proven open industry standards plus Lenovo’s quality commitment.
 
 * __High Scale and Performance__:  Several large Enterprises and Telco currently have Open Contrail in production, standing up to the challenges of the most massive data center clouds. One controller installation can support thousands of virtual machines or Containers.
 

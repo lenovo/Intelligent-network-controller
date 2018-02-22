@@ -1,4 +1,4 @@
-# Welcome to Lenovo's Intelligent Network Controller (TNC)
+# Welcome to Lenovo's Intelligent Network Controller 
 
 Lenovo’s Network Controller is available to address the challenges faced by both IT departments and telco providers in building an intelligent network that can adopt to new business requirements. TNC is a Software Defined Network (SDN) controller built on [OpenContrail](http://www.opencontrail.org/) which demonstrates Lenovo’s commitment to open solutions while providing __quality customer experiences__. 
 

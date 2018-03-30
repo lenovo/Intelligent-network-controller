@@ -40,6 +40,6 @@ __Key IT Benefits__:
 
 Lenovo is currently field trialing the controller and welcomes customer testing and feedback. For more details, check out the [SDN Controller Overview document](https://lenovopress.com/lp0842-introduction-to-lenovo-thinkagile-network-controller) or the comprehensive [User Guide](https://github.com/lenovo/thinkagile-network-controller/blob/master/TNC_UG_1-0_Final.pdf).
 
-To get more details and sign up for trials, send emails to sdnalias@lenovo.com
+To get more details and sign up for trials, send emails to sdnalias@lenovo.com or [submit request form](https://lenovosdncontroller.formstack.com/forms/lenovo_intelligent_network_controller)
 
 

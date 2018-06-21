@@ -38,8 +38,8 @@ __Key IT Benefits__:
 
 * __Seamless Integration__: Lenovo INC integrates with existing environments seeking to migrate to Private Cloud architecture models. It includes support for standard protocols and integration with orchestration systems such as Openstack. The Virtual router can integrate with routing protocols such as BGP and OSPF to enable undisrupted traffic paths.
 
-Lenovo is currently field trialing the controller and welcomes customer testing and feedback. For more details, check out the [SDN Controller Overview document](https://lenovopress.com/lp0842-introduction-to-lenovo-thinkagile-network-controller) or the comprehensive [User Guide](https://github.com/lenovo/thinkagile-network-controller/blob/master/TNC_UG_1-0_Final.pdf).
+Lenovo SDN cotnroller is in Controlled Availability and welcomes customers looking to deploy for their specific use cases. For more details, check out the [SDN Controller Overview document](https://lenovopress.com/lp0842-introduction-to-lenovo-thinkagile-network-controller) or the comprehensive [User Guide](https://github.com/lenovo/thinkagile-network-controller/blob/master/TNC_UG_1-0_Final.pdf).
 
-To get more details and sign up for trials, send emails to sdnalias@lenovo.com or [submit request form](https://lenovosdncontroller.formstack.com/forms/lenovo_intelligent_network_controller)
+To get more details and sign up for a demo, send emails to -sdnmarketing@lenovo.com or [submit request form](https://lenovosdncontroller.formstack.com/forms/lenovo_intelligent_network_controller)
 
 

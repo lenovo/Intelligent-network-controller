@@ -14,6 +14,7 @@ __The Intelligent Network Controller Features:__
 * VXLAN encapsulations and Data path Virtualization
 * Distributed Virtual Router 
 * Multicast Services
+* BGP EVPN Across Physical and Virtual
 * Service Function Chaining (SFC) with LBaaS/FWaaS/VPNaaS supporting commercial VNFs (Virtualized Network Functions)
 * High Availability
 * __Enhanced Lenovo GUI__
@@ -24,8 +25,7 @@ __The Intelligent Network Controller Features:__
 
 __Virtualization Platforms:__
 
-* Red Hat OpenStack 10 (RHOSP10) - (OpenStack Newton)
-* Red Hat Enterprise Linux 7.4 (RHEL 7.4)
+* OpenStack from Redhat or Conanical - (OpenStack Pike or later)
 * __Lenovo ThinkCloud 4.2 Solution__ 
 
 __Key IT Benefits__:
